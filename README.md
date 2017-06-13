@@ -56,13 +56,8 @@ General very hot and humid, tropical weather. Winter from December to February, 
 
 ## Data SIM Card
 
-At [Taoyuan (TPE) (Mostly International flights)](http://www.taoyuan-airport.com) or [Songshan (TSA)](http://www.tsa.gov.tw/tsa/zh/home.aspx) airport you can buy Data SIM card from main carriers of Taiwan.
+At [Taoyuan (TPE)](http://www.taoyuan-airport.com) or [Songshan (TSA)](http://www.tsa.gov.tw/tsa/zh/home.aspx) airport you can purchase  Data SIM cards from any of the four telecom providers operating in Taiwan. Regulations on SIM cards purchased *outside* of Taoyuan/Songshan Airport require you to present both your passport, and a secondary peice of photo identification, i.e drivers license... However, purchasing a data SIM card from *inside* the Airport enables you to use your entry permit/Tourist Visa/ Visa-Exempt stamp on your passport as your secondary peice of identification. For those who prefer to pre-book their SIM card prior to arrival, reservations can be completed online in English with Chunghwa Telecom （中華電信）at the following link: https://prepaidsim.twgate.net/reservation_en.html?&click=res_menu
 
-Due to the law, **you must have BOTH your passport AND your local ID or international driver license to buy one.** :disappointed:
-
-* Passport => ~~No SIM card~~
-* ID card => ~~No SIM card~~
-* **Passport + ID card => SIM card!**
 
 ## Power (Socket)
 
@@ -75,21 +70,30 @@ Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
 
 Sign up an account from [TPE-Free](https://www.tpe-free.tw/tpe/tpe_step1_en.aspx). Most of the public places (shopping mall, library and Metro stations) have TPE-Free.
 
-And also, you can use [iTaiwan](https://itaiwan.gov.tw/en/index.php). It will be available at some public places like post office or local government.
+If you purchase a Taiwanese SIM card with a local phone number you can also complete registration for [iTaiwan](https://itaiwan.gov.tw/en/index.php). However, the Wifi network is purposed for citizens/residents and will only be available at public areas such as post offices, or government buildings.
+
+When choosing to use either of the free networks provided by Taipei City please use proper pre-cautions as networks are public and data you transmit over open networks is not secure. Proper precautions like using a VPN or limiting sensitive data transmission is advised. Furthermore, if you already have a SIM card, you will find these Wifi networks to be significantly more sluggish then the speedy 4G networks Taiwan offers.
 
 ## Tipping
 
-No need to tip.
+No need to tip. Tipping is not expected in any parts of Taiwan and insisiting upon tipping usually only leads to akward situations.
 
 ## Communication
 
-Chinese & English, most of people will help you anyway.
+Mandarin is obviously the most widely used language in Taiwan, although many have at least a limited grasp of English and are usually extremely polite and helpful to tourists visiting Taiwan.
 
 ## Getting Around
 
-**[Taipei MRT](http://english.metro.taipei)** should be your first choice.
+**[METRO RAPID TRANSIT (MRT) ](http://english.metro.taipei)** Taipei boasts an extremely efficent metro system that operates from 6 in the morning until a little after midnight 7 days a week. 
+**[TAIWAN RAILWAY ASSOCIATION (TRA) ](http://www.railway.gov.tw/en/index.aspx)** For trips outside the reach of the MRT, Taiwan also has a railway network which runs along both sides of the island, timetables can be access via the provided link.
+**[HIGH SPEED RAIL (HSR) ](https://www.thsrc.com.tw/index_en.html?force=1)** Last but not least is Taiwan's HSR, similar to Japan's bullet trains the HSR runs on one side of the island and can take you to several destinations in the fraction of the time that is required by TRA. Tickets can be reserved via the provided link, or via the mobile applications available for iOS/Android. 
 
-**Uber** is also available in Taipei.
+iOS: https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj2zebMurvUAhXEm5QKHbSSBMoQFggpMAA&url=https%3A%2F%2Fitunes.apple.com%2Ftw%2Fapp%2F%25E5%258F%25B0%25E7%2581%25A3%25E9%25AB%2598%25E9%2590%25B5-t-express%25E8%25A1%258C%25E5%258B%2595%25E8%25B3%25BC%25E7%25A5%25A8%25E6%259C%258D%25E5%258B%2599%2Fid468963664%3Fmt%3D8&usg=AFQjCNHEmSgIDC7Z4FY3SZZxOtnwbFRc0w
+
+Android: https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0ahUKEwjz2ZXburvUAhVILpQKHQhPCCIQFgg8MAM&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dtw.com.thsrc.texpress%26hl%3Dzh_TW&usg=AFQjCNHSJRBAd-aHCFRiiycim9NFwR0DqQ
+
+
+**Uber** has been discontinued in Taipei.
 
 ## Sight Seeing
 
@@ -174,9 +178,9 @@ You can flag down a taxi from the street. Starts at NT$70-90, but in some touris
 
 Google Maps is your good friend.
 
-The public transport system runs on a reloadable contactless card called EasyCard. There are also one to five day unlimited pass (for MRT and Buses), called Taipei pass, and 24hr Taipei Metro Pass (only for MRT). It’s better to buy a EasyCard unless you will plan on making 5+ trips per day then you can buy the Taipei pass at all metro station information. The EasyCard is available at all metro station information counters and convenience stores.
+The public transport system runs on reloadable contactless cards called EasyCard (您遊卡） and iPass, although Easycard is the most common in Taipei. There are also one to five day unlimited pass (for MRT and Buses), called Taipei pass, and 24hr Taipei Metro Pass (only for MRT). It’s better to buy a EasyCard unless you will plan on making 5+ trips per day then you can buy the Taipei pass at all metro station information. The EasyCard is available at all metro station information counters and convenience stores.
 
-EasyCard credits are refundable (with some fees) so if you still have some credits left, remember to go to the MRT counter to apply for a refund.
+EasyCard credits are refundable (only if you have registered the cards) the refund process now takes several days and generally is not worth the hassle to those only visiting the city briefly, and is better left as a keepsake.
 
 **No eating, drinking and chewing gun is allowed inside the station or on the train.**
 
